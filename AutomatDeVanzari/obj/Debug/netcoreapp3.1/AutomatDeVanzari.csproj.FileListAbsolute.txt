@@ -1,0 +1,11 @@
+C:\Users\Andrei\source\repos\AutomatDeVanzari\bin\Debug\netcoreapp3.1\AutomatDeVanzari.exe
+C:\Users\Andrei\source\repos\AutomatDeVanzari\bin\Debug\netcoreapp3.1\AutomatDeVanzari.deps.json
+C:\Users\Andrei\source\repos\AutomatDeVanzari\bin\Debug\netcoreapp3.1\AutomatDeVanzari.runtimeconfig.json
+C:\Users\Andrei\source\repos\AutomatDeVanzari\bin\Debug\netcoreapp3.1\AutomatDeVanzari.runtimeconfig.dev.json
+C:\Users\Andrei\source\repos\AutomatDeVanzari\bin\Debug\netcoreapp3.1\AutomatDeVanzari.dll
+C:\Users\Andrei\source\repos\AutomatDeVanzari\bin\Debug\netcoreapp3.1\AutomatDeVanzari.pdb
+C:\Users\Andrei\source\repos\AutomatDeVanzari\obj\Debug\netcoreapp3.1\AutomatDeVanzari.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\AutomatDeVanzari\obj\Debug\netcoreapp3.1\AutomatDeVanzari.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\AutomatDeVanzari\obj\Debug\netcoreapp3.1\AutomatDeVanzari.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\AutomatDeVanzari\obj\Debug\netcoreapp3.1\AutomatDeVanzari.dll
+C:\Users\Andrei\source\repos\AutomatDeVanzari\obj\Debug\netcoreapp3.1\AutomatDeVanzari.pdb
